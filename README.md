@@ -24,13 +24,9 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Patrick McKenzie: [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
  - Paul Graham: [Do Things that Don't Scale](http://paulgraham.com/ds.html)
 
-## Chemistry
-
- - Derek Lowe: [The Open Source Malaria Project, So Far](http://blogs.sciencemag.org/pipeline/archives/2016/09/16/the-open-source-malaria-project-so-far)
-
 ## Computer science
 
- - Andrej Karpathy: [The Unreasonable Effectiveness of Recurrent Neural Networks] (https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+ - Andrej Karpathy: [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
  - Dan Luu: [We saw some really bad Intel CPU bugs in 2015, and we should expect to see more in the future](http://danluu.com/cpu-bugs/)
  - Denny Britz: [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
  - Jeff Atwood: [International Backup Awareness Day](https://blog.codinghorror.com/international-backup-awareness-day/)
