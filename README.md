@@ -91,4 +91,4 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
 ## Technical Writing
 
- - Tom Johnson: http://idratherbewriting.com/2016/12/20/changing-roles-of-technical-writers/
+ - Tom Johnson: [Generalist versus specialist](http://idratherbewriting.com/2016/12/20/changing-roles-of-technical-writers/)
