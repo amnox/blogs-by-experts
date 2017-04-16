@@ -83,7 +83,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Bruce Schneier: [Why cryptography is harder than it looks](https://www.schneier.com/essays/archives/1997/01/why_cryptography_is.html)
  - Elie Bursztein: [Full(er) House: Exposing high-end poker cheating devices](https://www.elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices)
  - Matt Blaze: [How Law Enforcement Tracks Cellular Phones](http://www.crypto.com/blog/celltapping)
- - Matthew Green: [A few thoughts on cryptographic engineering](http://blog.cryptographyengineering.com/2014/04/attack-of-week-openssl-heartbleed.html)
+ - Matthew Green: [What is Differential Privacy?](https://blog.cryptographyengineering.com/2016/06/15/what-is-differential-privacy/)
 
 ## User Experience
 
