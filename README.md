@@ -60,6 +60,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 ## Physics
 
  - Peter Woit: [Entanglement, the Multiverse and the Universe](http://www.math.columbia.edu/~woit/wordpress/?p=8918)
+ - Sabine Hossenfelder: [The Bullet Cluster as Evidence against Dark Matter](https://backreaction.blogspot.de/2017/01/the-bullet-cluster-as-evidence-against.html)
  - Scott Aaronson: [Why I am not an integrated information theorist](http://www.scottaaronson.com/blog/?p=1799)
  - Sean Carroll: [Preposterous Universe](https://www.preposterousuniverse.com/blog/)
 
