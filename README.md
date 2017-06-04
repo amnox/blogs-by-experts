@@ -84,10 +84,6 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Matt Blaze: [How Law Enforcement Tracks Cellular Phones](http://www.crypto.com/blog/celltapping)
  - Matthew Green: [What is Differential Privacy?](https://blog.cryptographyengineering.com/2016/06/15/what-is-differential-privacy/)
 
-## User Experience
-
- - Joel Marsh: [10 ways to pretend you know UX when you don't](http://thehipperelement.com/post/66097606120/10-ways-to-pretend-you-know-ux-when-you-dont)
-
 ## Technical Writing
 
  - Tom Johnson: [Generalist versus specialist](http://idratherbewriting.com/2016/12/20/changing-roles-of-technical-writers/)
