@@ -83,7 +83,3 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Elie Bursztein: [Full(er) House: Exposing high-end poker cheating devices](https://www.elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices)
  - Matt Blaze: [How Law Enforcement Tracks Cellular Phones](http://www.crypto.com/blog/celltapping)
  - Matthew Green: [What is Differential Privacy?](https://blog.cryptographyengineering.com/2016/06/15/what-is-differential-privacy/)
-
-## Technical Writing
-
- - Tom Johnson: [Generalist versus specialist](http://idratherbewriting.com/2016/12/20/changing-roles-of-technical-writers/)
