@@ -41,10 +41,6 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Richard Serlin: [The Intuition behind Wallace Neutrality](http://richardhserlin.blogspot.com/2015/07/the-intuition-behind-wallace-neutrality.html)
  - Russ Roberts: [The Human Side of Trade](http://russroberts.info/human-side-trade/)
  - Stuart Reid: [Stock market prices do not follow random walks](http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/)
- 
-## Finance
-
- - Aswath Damodaran: [Musings on Markets](http://aswathdamodaran.blogspot.com/2016/12/active-investing-rest-in-peace-or.html)
 
 ## Mathematics
 
