@@ -19,7 +19,6 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Andreessen-Horowitz (et al.): [16 Definitions on the Economics of VC](http://a16z.com/2016/09/11/vc-economics/)
  - Ben Thompson: [Dollar Shave Club and the Disruption of Everything](https://stratechery.com/2016/dollar-shave-club-and-the-disruption-of-everything/)
- - Brad Feld: [Feld Thoughts: Board Seat For Sale](http://www.feld.com/archives/2016/12/board-seat-sale.html)
  - Patrick McKenzie: [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
  - Paul Graham: [Do Things that Don't Scale](http://paulgraham.com/ds.html)
 
