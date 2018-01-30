@@ -24,7 +24,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
 ## Computer science
 
- - Andrej Karpathy: [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+ - Andrej Karpathy. Long posts blog: [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/), short posts blog: [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
  - Dan Luu: [We saw some really bad Intel CPU bugs in 2015, and we should expect to see more in the future](http://danluu.com/cpu-bugs/)
  - Denny Britz: [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
  - Jeff Atwood: [International Backup Awareness Day](https://blog.codinghorror.com/international-backup-awareness-day/)
